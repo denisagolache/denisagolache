@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @denisagolache, I am in my 3rd grade of bachelor degree at Faculty of Computer Science in Iasi, Romania
+- 👋 Hi, I’m @denisagolache
 - 📫 How to reach me: -> mail: denisa.golache@gmail.com
 
 <!---
