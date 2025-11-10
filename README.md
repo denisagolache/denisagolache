@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @denisagolache
+- 🎓 Studying Distributed Systems (MSc) @ UAIC Iași
 - 📫 How to reach me: -> mail: denisa.golache@gmail.com
 
 <!---
